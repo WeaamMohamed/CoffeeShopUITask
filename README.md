@@ -1,16 +1,7 @@
 # coffe_shop_task
 
-A new Flutter project.
 
-## Getting Started
+## Documentaion link: 
+https://docs.google.com/document/d/1mfvtN2Q3MHTpCyswWr3du7yG8wXRpaKhkMoBBD6ue-c/edit
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
